@@ -1,0 +1,23 @@
+.main-header {
+  height: 82px;
+  width: 100%;
+  background: black;
+  position: relative;
+}
+
+.logo {
+  position: absolute;
+  width: 130px;
+  left: 8px;
+  bottom: 15px;
+}
+
+.menu-bar {
+  width: 70px;
+  position: absolute;
+  display: flex;
+}
+
+.menu {
+  color: white;
+}
