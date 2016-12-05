@@ -61,3 +61,7 @@
   width: 100vh;
   background: black;
 }
+
+.product {
+  font-size: 3rem;
+}
