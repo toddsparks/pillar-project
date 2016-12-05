@@ -56,4 +56,8 @@
   background: #f2f3f4;
 }
 
-/*testing to see if this works on github*/
+.middle-white-section {
+  height: 50vh;
+  width: 100vh;
+  background: black;
+}
